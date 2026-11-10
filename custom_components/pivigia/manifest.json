@@ -1,0 +1,13 @@
+{
+  "domain": "pivigia",
+  "name": "PiVigia",
+  "version": "0.1.4",
+  "config_flow": true,
+  "documentation": "https://github.com/Gente-del-Condado/pivigia-ha",
+  "codeowners": [
+    "@Gente-del-Condado"
+  ],
+  "iot_class": "local_polling",
+  "requirements": [],
+  "issue_tracker": "https://github.com/Gente-del-Condado/pivigia-ha/issues"
+}
