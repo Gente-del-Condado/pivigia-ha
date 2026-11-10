@@ -7,3 +7,5 @@ Muestra en Home Assistant el estado y las detecciones de un servicio PiVigia exi
 En Home Assistant 2026.11 o posterior, abre **Ajustes → Marketplace**, añade este repositorio como **Integración** y pulsa **Instalar**. Después abre **Ajustes → Dispositivos y servicios → Añadir integración** y busca **PiVigia**.
 
 Las aplicaciones de Home Assistant OS se distribuyen por separado en [Mis-app](https://github.com/Gente-del-Condado/Mis-app).
+
+Forgejo publica esta distribución automáticamente a partir de la integración del proyecto de origen.
